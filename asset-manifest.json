@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moeen-News/static/css/main.31d6cfe0.css",
+    "main.js": "/Moeen-News/static/js/main.7dbc55f4.js",
+    "static/js/453.786d7cb0.chunk.js": "/Moeen-News/static/js/453.786d7cb0.chunk.js",
+    "static/media/loading.gif.gif": "/Moeen-News/static/media/loading.gif.facd73f14b710c912f5c.gif",
+    "index.html": "/Moeen-News/index.html",
+    "main.7dbc55f4.js.map": "/Moeen-News/static/js/main.7dbc55f4.js.map",
+    "453.786d7cb0.chunk.js.map": "/Moeen-News/static/js/453.786d7cb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7dbc55f4.js"
+  ]
+}
